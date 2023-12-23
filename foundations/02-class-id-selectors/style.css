@@ -1,0 +1,16 @@
+.alert-text {
+    background-color: rgba(232, 144, 147, 0.977);
+    font-family:"Verdana","DejaVu Sans","Sans-Serif";
+}
+.read{
+    font-size: 24px;
+}
+#four{
+    background-color: hsla(114, 96%, 50%, 0.623);
+    font-size: 24px;
+    font-weight: bold;
+}
+#two{
+    color:rgba(7, 33, 203, 0.97);
+    font-size: 36px;
+}
